@@ -1,8 +1,8 @@
 def add(x,y):
-    pass
+    return x+y
 def subtract(x,y):
     return x-y
 def mul(x,y):
-    pass
+    return x * y
 def dev(x,y):
     pass
