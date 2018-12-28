@@ -1,2 +1,8 @@
 I am Mansoor Mansoor,
+<<<<<<< HEAD
 Software test engg.
+=======
+Working as test engineer.
+QA Test Dept.
+This file is changed by other developer.
+>>>>>>> dev
